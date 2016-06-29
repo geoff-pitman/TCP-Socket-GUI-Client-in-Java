@@ -6,10 +6,7 @@ The purpose of this application is to demonstrate tcp/ip socket APIs
 Tested only in Windows, but should run on anything that Python 2.7 and Java jre8 can be installed on. Assuming the aforementioned is installed: 
 #TO RUN...
 1. double click 'server.py' file to execute (on nix: 'bash$: python server.py')
-2. compile and execute java application  (main execution point is in Client.Java)
-
-
-main() is in Client.Java 
+2. compile and execute java application  (main is in Client.java)
 
 #Server hardcoded address = "127.0.0.1"
 #Server hardcoded port    =  55536
