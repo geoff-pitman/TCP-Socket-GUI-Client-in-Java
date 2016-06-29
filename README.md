@@ -1,4 +1,4 @@
-# TCP-Socket-GUI-Client-in-Java-and-Python
+# TCP-Socket-GUI-Client-in-Java
 TCP GUI client front end written in Java, server back-end written in Python.
 The purpose of this application is to demonstrate tcp/ip socket APIs 
     by transferring files from the server's working directory,
