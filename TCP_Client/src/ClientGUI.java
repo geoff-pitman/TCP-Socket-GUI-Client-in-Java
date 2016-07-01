@@ -497,7 +497,7 @@ public class ClientGUI implements ActionListener{
     {
     	// confirm user's intent to exit
     	int dialogButton = JOptionPane.YES_NO_OPTION;
-        int dialogResult = JOptionPane.showConfirmDialog(null, "Are you sure you want to disconnect?", "Title on Box", dialogButton);
+        int dialogResult = JOptionPane.showConfirmDialog(null, "Are you sure you want to disconnect?", "Confirm", dialogButton);
         if(dialogResult == 0) {
               	client.getOutStream().println("BYE");
               	// transform layout back to disconnected UI
