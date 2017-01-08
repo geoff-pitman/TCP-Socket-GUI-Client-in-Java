@@ -8,7 +8,7 @@
 #// server.py
 #// The purpose of this file is to serve up text files, line by line,
 #    to a connected tcp/ip client.
-#  ****note**** The port and host are hardcoded around lines 92-94
+#  ****note**** The port and host are hardcoded around line 102
 #       host = "127.0.0.1"
 #       port = 55536
 #  ****note**** ctrl-c will clean everything up and exit
